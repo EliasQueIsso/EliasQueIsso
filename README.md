@@ -1,8 +1,8 @@
 ### Bom dia, eu sou o Elias e apenas isso
 
 
-- 🌱 Atualmente, eu ainda estou aprendendo o básico da programção na Etec
-- 🤔 Eu to procurando ajuda para tudo, ainda não sei nada
+- 🌱 Atualmente, eu ainda estou aprendendo o básico da programação na Etec
+- 🤔 Eu estou procurando ajuda para tudo, ainda não sei nada
 - 💬 Se quiser me pergunta algo, pergunte sobre anime
 - 📫 Se quiser falar comigo: elias2004souzam@gmail.com
 - 😄 Pronouns: Ele/Dele
@@ -17,8 +17,6 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Elias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Elias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Elias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Elias-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
      <img align="right" alt="Elias-anime" src="https://media.tenor.com/images/7ffe215568ce01bc703e4cbaf1a7483c/tenor.gif">
 </div>
