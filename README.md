@@ -1,10 +1,9 @@
 ### Bom dia, eu sou o Elias e apenas isso
 
 
-- 🌱 Atualmente, eu ainda estou aprendendo o básico da programação na Etec
-- 🤔 Eu estou procurando ajuda para tudo, ainda não sei nada
-- 💬 Se quiser me pergunta algo, pergunte sobre anime
-- 📫 Se quiser falar comigo: elias2004souzam@gmail.com
+- 🌱 Atualmente, aprendendo programação na Etec
+- 🤔 Eu estou procurando ajuda para meus projetos
+- 📫 Contato: elias2004souzam@gmail.com
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Eu já assisti mais de 200 animes
 
