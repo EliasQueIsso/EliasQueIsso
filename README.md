@@ -18,6 +18,7 @@
   <img align="center" alt="Elias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Elias-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Elias-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+   <img align="center" alt="Elias-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
      <img align="right" alt="Elias-anime" src="https://media.tenor.com/images/7ffe215568ce01bc703e4cbaf1a7483c/tenor.gif">
 </div>
   
