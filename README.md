@@ -1,7 +1,7 @@
 ### Bom dia, eu sou o Elias e apenas isso
 
 
-- 🌱 Atualmente, aprendendo programação na Etec
+- 🌱 Estudando programação
 - 📫 Contato: elias2004souzam@gmail.com
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Eu já assisti mais de 200 animes
