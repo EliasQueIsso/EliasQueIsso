@@ -1,4 +1,11 @@
-<h1> Hi! My name is Elias. </h1>
+Bom dia, eu sou o Elias e apenas isso
+
+
+- 🌱 Estudando programação
+- 📫 Contato: elias2004souzam@gmail.com
+- 😄 Pronouns: Ele/Dele
+- ⚡ Fun fact: Eu já assisti mais de 200 animes
+
 
 <div>
   <a href="https://github.com/EliasQueIsso">
